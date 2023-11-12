@@ -1,0 +1,1 @@
+start "" "game\bin\win64\cs2.exe" -dedicated -usercon -console -maxplayers 32 -condebug +mapgroup mg_cs2 +map de_overpass +servercfgfile serverconfig_ld24.cfg +game_alias deathmatch -high +sv_setsteamaccount <gslt_token>

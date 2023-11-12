@@ -1,0 +1,28 @@
+// To use this file, rename it to GameModes_Server.txt
+//
+// Values here override the default gamemodes.txt 
+
+"GameModes_Server.txt"
+{
+	"mapgroups"
+	{
+		"mg_cs2"
+		{
+			"name"		"mg_cs2"
+			"maps"
+			{
+				
+				"de_inferno" ""
+				"cs_italy" ""
+				"de_ancient" ""
+				"de_anubis" ""
+				"de_mirage" ""
+				"de_overpass" ""
+				"de_vertigo" ""
+				"cs_office" ""
+				"de_nuke" ""
+				"de_dust2" ""
+			}
+		}
+	}
+}
