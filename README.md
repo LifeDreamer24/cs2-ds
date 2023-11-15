@@ -24,7 +24,8 @@ To start the server correctly, you need to follow these steps:
 5. **Step 2B:** If you do not have a game installation, download it using SteamCMD with [this guide](https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers).
 6. **Step 3:** Replace `<gslt_token>` in the `launch.bat` batch file with your own GSLT token which can be taken from [here](https://steamcommunity.com/dev/managegameservers).
 7. **Step 3A:** Modify both the RCON password and TV Password values in the `serverconfig_ld24.cfg` configuration file in the `cfg` folder.
-8. **Step 4:** Launch your server using the `launch.bat` batch file.
+8. **Step 3B:** Add yourself as an administrator on the server by modifying the `admins.cfg` configuration file in the `configs` folder.
+9. **Step 4:** Launch your server using the `launch.bat` batch file.
 
 ## Credits & Special Thanks
 
