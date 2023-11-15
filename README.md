@@ -11,6 +11,7 @@ This is a **undocumented but working as intended** CS2 (Counter-Strike 2) team d
 - Lua scripts supported: Empty directory tree for them and reloading script are both included in this project.
 - Possibility to purchase anywhere in the map, without limitations (except for grenades and the taser).
 - Hides the radar and the currency amount from the HUD as they are not needed.
+- Automatic bunny-hopping enabled.
 
 ## Instructions
 
