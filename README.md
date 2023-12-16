@@ -32,7 +32,7 @@ To start the server correctly, you need to follow these steps:
 - Credits to [Valve](https://github.com/ValveSoftware) for creating this masterpiece of a game.
 - Credits to the awesome team who worked behind the original CS2Fixes aswell as their Zombie Extraction servers. They have a very impressive knowledge over the Source 2 game engine.
 - I would like to thank [mihaigsm2003](https://github.com/mihaigsm2003) for helping me with some issues while using his branch of CS2Fixes.
-- A massive thank you and shoutout to my friend [@rcon_password](https://github.com/rcon420) for helping me alot in various issues troughout this amazing journey of making CS2 content. They've been supporting me alot for quite a while already and making this would've not been possible without them. ([Their Discord](https://discord.gg/chill-lv-cs-go-cs2-538820484913954847))
+- A massive thank you and shoutout to my friend [rcon_password](https://github.com/rcon420) for helping me alot in various issues troughout this amazing journey of making CS2 content. They've been supporting me alot for quite a while already and making this would've not been possible without them. ([Their Discord](https://discord.gg/chill-lv-cs-go-cs2-538820484913954847))
 
 ## Feedback
 
