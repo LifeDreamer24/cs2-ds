@@ -1,17 +1,26 @@
 # CS2 Team Deathmatch Server Setup
 
-This is a **undocumented but working as intended** CS2 (Counter-Strike 2) team deathmatch dedicated server made for **public use**. It uses my version of a branch from CS2Fixes, a plugin that fixes some of the common issues and bugs found in the original game. You can find the source code of the version i used in this project in [my other repository](https://github.com/LifeDreamer24/CS2Fixes). I made this because i found nothing else similar to this for beginners.
+This is an **undocumented but working as intended** CS2 (Counter-Strike 2) team deathmatch dedicated server. It uses my version of a branch from CS2Fixes, a plugin that fixes some of the common issues and bugs found in the original game. You can find the source code of the version i used in this project in [my other repository](https://github.com/LifeDreamer24/CS2Fixes). I made this because i found nothing else similar to this for beginners.
+You may need a basic understanding over text editing and file management such as extracting and drag n' drop.
 
 ## Features
 
 - Instant respawns for both teams: Terrorists and Counter-Terrorists.
-- Vote from one of the **10 official maps** at the end of each round except the one played in the current round.
+- Vote from one of the 10 official maps at the end of each round except the one played in the current round.
 - Automatically balances the teams based on the number of players.
 - Many admin commands included with the plugin.
 - Lua scripts supported: Empty directory tree for them and reloading script are both included in this project.
 - Possibility to purchase anywhere in the map, without limitations (except for grenades and the taser).
 - Hides the radar and the currency amount from the HUD as they are not needed.
 - Automatic bunny-hopping enabled.
+
+## Port Fowarding
+
+This section **does not** provide the full instructions on how to proceed. It will depend of the network provider you are using. Please search online for a more detailed guide focused on this subject.
+You need to open the following network ports for using this server publicly.
+
+**TCP:** 27015, 27036
+**UDP:** 27015, 27031-27036
 
 ## Instructions
 
